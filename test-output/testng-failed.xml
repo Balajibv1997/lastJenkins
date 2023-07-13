@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tc.Mousehover">
+      <class name="Tc.Acti">
         <methods>
-          <include name="mou"/>
+          <include name="acti"/>
         </methods>
-      </class> <!-- Tc.Mousehover -->
+      </class> <!-- Tc.Acti -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
